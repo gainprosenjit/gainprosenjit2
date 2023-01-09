@@ -1,2 +1,2 @@
 # gainprosenjit2
-Trying to learn. I am a beginner. 
+Trying to learn. 
